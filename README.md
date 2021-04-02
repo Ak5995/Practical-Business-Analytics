@@ -1,14 +1,8 @@
 # AttritionAnalysis
 IBM HR attrition analytics
-v	Loading coursework R scripts:
-o	Copy ‘PBA_RWeDataMungers_code.zip’ from main submission file to a local directory 
-o	Right click and extract the ‘PBA_RWeDataMungers_code.zip’ file 
-o	From the menu in R studio, go to session -> set working directory -> choose the location of the extracted document
-o	Confirm all the files listed below are included.
 
-The zip contains following  .R files.
-1.main.R
-The main R file connecting all other R scripts
+1. main.R
+    The main R file connecting all other R scripts
              
 2. DT_RF_model_functions.R
     Functions used for Decision trees and Random Forest
@@ -38,4 +32,3 @@ o	“ggcorrplot”
 o	“gridExtra”
 o	“corr”
 o	“BioManager”
-
