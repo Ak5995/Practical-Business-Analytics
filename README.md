@@ -1,28 +1,11 @@
-IBM HR attrition analytics
+## IBM HR attrition analytics
 
-1. 'main.R' - The main R file connecting all other R scripts
-             
-2. 'DT_RF_model_functions.R'- Functions used for Decision trees and Random Forest
+The aim of the project is to analyse the dataset and understand which employees are likely to leave the organization and factors which induced them to arrive at this decision by following the CRISP-DM methodology in R. This prediction can be incorporated by organizations to curb attrition and retain valuable talent. The project encompasses the following objectives: 
 
-3. 'lab_functions.R' - Functions used from the labs
+1. Identify employees who are likely to leave the organization, based on which an organization could either focus on retention or proactively plan for replacement to avoid single point failures if any.
 
-4. 'model_comparison_functions.R' - Custom function used to compare the models	
+2. Identify decisive factors leading to employee’s resignation to understand and improve the work culture.
 
-5. 'preprocessing_functions.R' - Functions used for pre-processing the data
+3. Potential cost benefits to the organisation by predicting the attrition rate.
 
-6. 'svm_models_functions.R' - Functions used for SVM model.
-
-7. 'visualization_code.R' - Visualisation code.
-
-
-o	Open ‘main.r’ and run the code
-
-o	If the code throws out library/package/... confirm that the following packages are installed:
-
-o	“ggplot”
-o	“tidyverse”
-o	“repr”
-o	“ggcorrplot”
-o	“gridExtra”
-o	“corr”
-o	“BioManager”
+4. Identify the likelihood of employee resignation from a specific job role or department to identitfy underlying issues.
