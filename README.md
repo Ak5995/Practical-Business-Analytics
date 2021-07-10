@@ -1,6 +1,6 @@
 ## IBM HR attrition analytics
 
-The aim of the project is to analyse the dataset and understand which employees are likely to leave the organization and factors which induced them to arrive at this decision by following the CRISP-DM methodology in R. This prediction can be incorporated by organizations to curb attrition and retain valuable talent. The project encompasses the following objectives: 
+The aim of the project is to prepare, visulaise and analyze the dataset to understand which employees are likely to leave the organization and factors which induced them to arrive at this decision by following the CRISP-DM methodology in R. This prediction can be incorporated by organisations to curb attrition and retain valuable talent. The project encompasses the following objectives: 
 
 1. Identify employees who are likely to leave the organization, based on which an organization could either focus on retention or proactively plan for replacement to avoid single point failures if any.
 
